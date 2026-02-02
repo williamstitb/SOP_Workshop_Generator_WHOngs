@@ -68,3 +68,10 @@ When presenting this data, guide the team through this narrative arc:
 
 ---
 *Generated for S&OP Training Purposes.*
+
+## Acknowledgments
+* **Concept & Design:** William H Ongseputra
+* **Code Assistance:** Developed with the assistance of LLM technology (Google Gemini) for rapid prototyping and Python scripting.
+
+## Disclaimer
+This repository was developed with the assistance of AI tools. While the data logic and financial calculations have been audited for the specific purpose of this S&OP workshop, the code is provided "as-is" without warranty.
