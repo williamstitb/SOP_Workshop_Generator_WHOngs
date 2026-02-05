@@ -75,3 +75,6 @@ When presenting this data, guide the team through this narrative arc:
 
 ## Disclaimer
 This repository was developed with the assistance of AI tools. While the data logic and financial calculations have been audited for the specific purpose of this S&OP workshop, the code is provided "as-is" without warranty.
+
+## Contact
+Created by [William H. Ongseputra](https://www.linkedin.com/in/wongseputra/).
